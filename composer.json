@@ -1,5 +1,6 @@
 {
     "name": "premier/payment",
+    "description": "Liberty payment gateway class",
     "type": "library",
     "license": "proprietary",
     "authors": [
